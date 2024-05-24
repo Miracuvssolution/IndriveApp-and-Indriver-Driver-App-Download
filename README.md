@@ -18,7 +18,7 @@ Multi-Language Support: To cater to a diverse user base, the app supports multip
 How Miracuves Helps to Grow Indrive in Your Company
 Miracuves leverages its expertise in app development to help your Indrive-inspired app achieve rapid growth and market success:
 
-**Customized Development:
+Customized Development:
 Tailored Solutions: Miracuves customizes the Indrive app to meet your business’s specific needs, incorporating unique features that provide a competitive edge.
 Client-Centric Approach: Collaborating closely with clients, Miracuves ensures the app aligns perfectly with business objectives and user expectations.
 Advanced Features:
